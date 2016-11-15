@@ -16,9 +16,6 @@ INSERT INTO syntax_practice (username, city, transactions_completed, transaction
 ('davey', 'chicago', 9, 99, 98.04),
 ('ora', 'phoenix', 88, 90, 3.33);
 
-DROP TABLE syntax_practice;
-
-
 SELECT *
 FROM syntax_practice;
 
